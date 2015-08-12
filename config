@@ -31,3 +31,23 @@
  *
  *
  */
+
+
+#if	HOW TO APPY THEM?? WELL YOU'LL GET YOUR ANSWER BELOW:
+
+1) Select CPU Governor "zzmoove" in CPU Section of your Kernel
+   Adiutor App.
+
+2) Restart Kernel Adiutor app.
+
+3) Again go to CPU Section, Go in CPU Governor Tunables, Scroll
+   Down and you'll see a tab "profile_number". Select it.
+
+4) Enter your desired Profile No. Ex. "5" for ZaneZam Battery Plus.
+
+5) Cheers you just changed a Governor Profile. :D
+
+
+#endif /* You Got Your Answer */
+
+ 
