@@ -1,0 +1,33 @@
+/*
+ * currently available profiles by ZaneZam and Yank555:
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ * -  (1)'def'    -> Default              -> will set governor defaults                                                                     -
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ * -  (2)'ybat    -> Yank Battery         -> a very good battery/performance balanced setting                                               -
+ * -                                         DEV-NOTE: highly recommended!                                                                  -
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ * -  (3)'ybatext'-> Yank Battery Extreme -> like yank battery but focus on battery saving                                                  -
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ * -  (4)'zzbat'  -> ZaneZam Battery      -> a more 'harsh' setting strictly focused on battery saving                                      -
+ * -                                         DEV-NOTE: might give some lags!                                                                -
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ * -  (5)'zzbatp' -> ZaneZam Battery Plus -> NEW! reworked 'faster' battery setting                                                         -
+ * -                                         DEV-NOTE: recommended too!:)                                                                   -
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ * -  (6)'zzopt'  -> ZaneZam Optimized    -> balanced setting with no focus in any direction                                                -
+ * -                                         DEV-NOTE: relict from back in the days, even though some people still like it!                 -
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ * -  (7)'zzmod'  -> ZaneZam Moderate     -> NEW! setting based on 'zzopt' which has mainly (but not strictly only!) 2 cores online         -
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ * -  (8)'zzperf' -> ZaneZam Performance  -> all you can get from zzmoove in terms of performance but still has the fast                    -
+ * -                                         down scaling/hotplugging behaving                                                              -
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ * -  (9)'zzinz'  -> ZaneZam InZane       -> NEW! based on performance with new insane scaling active. a new experience!                    -
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ * - (10)'zzgame' -> ZaneZam Gaming       -> NEW! based on performance with scaling block enabled to avoid cpu overheating during gameplay  -
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ * - (11)'zzrelax'-> ZaneZam Relax        -> NEW! based on moderate (except hotplug settings) with relaxed sleep settings                   -
+ * ------------------------------------------------------------------------------------------------------------------------------------------
+ *
+ *
+ */
